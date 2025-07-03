@@ -10,13 +10,11 @@
 
 ## Image-to-Text
 
-### 1. Retrieval-based Methods
+### 1. Sampling-based Methods
 
-### 2. Generative Prompting
+### 2. Encoder-decoder Methods
 
-### 3. Vision-Language Contrastive Models
-
-### 4. Multimodal Foundation Models
+### 3. Visual Language Models
 
 ## Video-to-Text
 
